@@ -46,7 +46,7 @@ The UW Cart Lab also provides the [_Mapping for a Sustainable World: QGIS Techni
 - Figure 1.8-2: [The effects of the modifiable areal unit problem and the ecological fallacy](/figures/1.8-2.pdf) | **Data (Raw Excel Download):** [Indicator 15.1.1 (2015)](/data/1.8/15.1.1_2015_Data.xlsx)
 - Figure 1.9-1: [Data distributions and classification](/figures/1.9-1.pdf) | **Data (Raw Excel Download):** [Indicator 11.6.2 (2016)](/data/1.9/11.6.2_2016_Data.xlsx)
 	- [Legend](/figures/1.9-1_legend.pdf)
-- Figure 1.9-2: [Equal interval](/figures/1.9-2.pdf) | **Data (Raw Excel Download):** [Indicator 11.6.2 (2016)](/data/1.9/11.6.2_2016_Data.xlsx)
+- Figure 1.9-2: [Equal interval](/figures/1.9-2.pdf) | **Data (Raw Excel Download):** [Indicator 11.6.2 (2016)](/data/1.9/11.6.2_2016_Data.csv)
 	- [Legend](/figures/1.9-2_legend.pdf)
 - Figure 1.9-3: [Optimal breaks](/figures/1.9-3.pdf) | **Data (Raw Excel Download):** [Indicator 11.6.2 (2016)](/data/1.9/11.6.2_2016_Data.xlsx)
 	- [Legend](/figures/1.9-3_legend.pdf)
