@@ -28,19 +28,47 @@ Summary of All Archived Datasets
 - Figure 1.2-3: Time
 	- Left [The area around the United Nations Headquarters in 1836](/figures/1.2-3b.pdf)
 	- Right [The same area today](/figures/1.2-3b.pdf)
-- Figure 1.2-4: [Example data from the Global SDGs Indicators Database](/figures/1.4.pdf) | Original Data
-- Figure 1.3-1: M49 regions and subregions. [PDF](/1_Choropleth/1.1_Scope.md)
-- Figure 1.3-2: M49 intermediate regions. [PDF](/1_Choropleth/1.1_Scope.md)
-- Figure 1.3-3: SDG regional groupings. [PDF](/1_Choropleth/1.1_Scope.md)
-- Figure 1.4-1: Attribute levels of measurement and associated example symbolization. [[PDF](/1_Choropleth/1.1_Scope.md)
-- Figure 1.4-2: SDG indicators and their level of measurement. [PDF](/1_Choropleth/1.1_Scope.md)
-- Figure 1.5-1: Time in geospatial data. [PDF](/1_Choropleth/1.1_Scope.md)
+- Figure 1.2-4: [Example data from the Global SDGs Indicators Database](/figures/1.2-4.pdf) | Original Data
+- Figure 1.3-1: [M49 regions and subregions](/figures/1.3-1.pdf)
+- Figure 1.3-2: [M49 intermediate regions](/figures/1.3-2.pdf)
+- Figure 1.3-3: [SDG regional groupings](/figures/1.3-3.pdf)
+- Figure 1.4-1: [Attribute levels of measurement and associated example symbolization](/figures/1.4-1.pdf)
+- Figure 1.4-2: [SDG indicators and their level of measurement](/figures/1.4-2.pdf)
+- Figure 1.5-1: [Time in geospatial data](/figures/1.5-1.pdf)
+- Figure 1.5-2: [Change in geospatial data](/figures/1.5-2.pdf)
+- Figure 1.6-1: [Indicator Tiers and Tier I mappable values](/figures/1.6-1.pdf)
+	- [Figure 1.6-1 Legend Top](/figures/1.6-1_legend_a.pdf)
+	- [Figure 1.6-1 Legend Bottom](/figures/1.6-1_legend_b.pdf)
+- Figure 1.7-1: [Data transformation options for enumerated, population-based attributes](/figures/1.7-1.pdf)
+- Figure 1.7-2: [Data transformations for Indicator 9.1.2 (2015)](/figures/1.7-2.pdf)
+- Figure 1.8-1: [Understanding the modifiable areal unit problem (MAUP)](/figures/1.8-1.pdf)
+	- [Figure 1.8-1 Legend](/figures/1.8-1_legend.pdf)
+- Figure 1.8-2: [The effects of the modifiable areal unit problem and the ecological fallacy](/figures/1.8-2.pdf)
+- Figure 1.9-1: [Data distributions and classification](/figures/1.9-1.pdf)
+	- [Figure 1.9-1 Legend](/figures/1.9-1_legend.pdf)
+- Figure 1.9-2: [Equal interval](/figures/1.9-2.pdf)
+	- [Figure 1.9-2 Legend](/figures/1.9-2_legend.pdf)
+- Figure 1.9-3: [Optimal breaks](/figures/1.9-3.pdf)
+	- [Figure 1.9-3 Legend](/figures/1.9-3_legend.pdf)
+- Figure 1.9-4: [Mean & standard deviation](/figures/1.9-4.pdf)
+	- [Figure 1.9-4 Legend](/figures/1.9-4_legend.pdf)
+- Figure 1.9-5: [Quantile](/figures/1.9-5.pdf)
+	- [Figure 1.9-5 Legend](/figures/1.9-5_legend.pdf)
+
+[Goal 1 Insert: End Poverty in All Its Forms Everywhere](/figures/SDG01_NoPoverty.pdf)
 
 **Section 2: Map Design Considerations**
 
 
+[Goal 5 Insert: Achieve Gender Equality and Empower All Women and Girls](/figures/SDG05_GenderEquality.pdf)
 
 **Section 3: Maps & Diagrams**
 
 
+[Goal 9 Insert: Build Resilient Infrastructure, Promote Sustainable Industrialization, & Foster Innovation](/figures/SDG09_Infrastructure.pdf)
+
 **Section 4: Map Use Environments**
+
+
+[Goal 13 Insert: Take Urgent Action to Combat Climate Change](/figures/SDG13_ClimateChange.pdf)
+
