@@ -2,7 +2,7 @@
 
 ## About
 
-[_Mapping for a Sustainable World_](https://digitallibrary.un.org/record/3898826) is an open access cartography book teaching the principles of cartography through the United Nations’ 17 Sustainable Development Goals (SDGs). Formed in 2015 as an extension of the 2000 Millenial Goals, the United Nations identified 17 goals in an effort to address, collectively, the most pressing problems facing our world. _Mapping for a Sustainable World_ includes four sections and 51 chapters on the SDGs and geospatial data, map design considerations, maps and diagrams, and map use environments. The book has an editorial team comprising writers from the International Cartographic Association (ICA) and the Geospatial Information Section of the United Nations (UN). Editorial members include Menno-Jan Kraak (ICA), Robert E. Roth (ICA), Britta Ricker (ICA), Ayako Kagawa (UN), and Guillaume Le Sourd (UN). 
+[**_Mapping for a Sustainable World_**](https://digitallibrary.un.org/record/3898826) is an open access cartography book teaching the principles of cartography through the United Nations’ 17 Sustainable Development Goals (SDGs). Formed in 2015 as an extension of the 2000 Millenial Goals, the United Nations identified 17 goals in an effort to address, collectively, the most pressing problems facing our world. _Mapping for a Sustainable World_ includes four sections and 51 chapters on the SDGs and geospatial data, map design considerations, maps and diagrams, and map use environments. The book has an editorial team comprising writers from the International Cartographic Association (ICA) and the Geospatial Information Section of the United Nations (UN). Editorial members include Menno-Jan Kraak (ICA), Robert E. Roth (ICA), Britta Ricker (ICA), Ayako Kagawa (UN), and Guillaume Le Sourd (UN). 
 
 ###### Cite/Attribute as: Kraak MJ, RE Roth, B Ricker, A Kagawa, and G Le Sourd. 2020. _Mapping for a Sustainable World_. United Nations: New York, NY.
 
@@ -17,7 +17,7 @@ Database](https://unstats.un.org/sdgs/indicators/database/), which is continuous
 
 The UW Cart Lab also provides the [_Mapping for a Sustainable World: QGIS Technical Supplement_](https://github.com/uwcartlab/MappingSDGsTechnicalSupplement) to walkthrough how to recreate these figures using the QGIS open source mapping software. All archived materials, including the QGIS Supplement and contents of the Mapping for a Sustainable World cartography book, are available for classroom or workshop use following a CC BY-NC license.
 
-[**Summary of All Archived Datasets**](/data/UNSDG_DataSummary_20201130.xlsx)
+[**Summary of All Archived Datasets (Excel download)**](/data/UNSDG_DataSummary_20201130.xlsx)
 
 **Section 1: SDGs & Geospatial Data**
 - Figure 1.1-1: [The SDGs](/figures/1.1-1.pdf)
@@ -41,7 +41,7 @@ The UW Cart Lab also provides the [_Mapping for a Sustainable World: QGIS Techni
 	- [Legend Bottom](/figures/1.6-1_legend_b.pdf)
 - Figure 1.7-1: [Data transformation options for enumerated, population-based attributes](/figures/1.7-1.pdf)
 - Figure 1.7-2: [Data transformations for Indicator 9.1.2 (2015)](/figures/1.7-2.pdf)
-- Figure 1.8-1: [Understanding the modifiable areal unit problem (MAUP)](/figures/1.8-1.pdf)
+- Figure 1.8-1: [Understanding the modifiable areal unit problem (MAUP)](/figures/1.8-1.pdf) | Data: [Indicator 15.1.1 (2015)](/data/1.8/15.1.1_2015_Data.xlsx)
 	- [Legend](/figures/1.8-1_legend.pdf)
 - Figure 1.8-2: [The effects of the modifiable areal unit problem and the ecological fallacy](/figures/1.8-2.pdf)
 - Figure 1.9-1: [Data distributions and classification](/figures/1.9-1.pdf)
