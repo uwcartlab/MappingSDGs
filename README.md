@@ -61,7 +61,7 @@ The UW Cart Lab also provides the [_Mapping for a Sustainable World: QGIS Techni
 	- **Data:** [Indicator 11.6.2 (2016)](/data/1.9/11.6.2_2016_Data.csv)
 	- [Legend](/figures/1.9-5_legend.pdf)
 
-[Goal 1 Insert: End Poverty in All Its Forms Everywhere](/figures/SDG01_NoPoverty.pdf)
+[**Goal 1 Insert:** End Poverty in All Its Forms Everywhere](/figures/SDG01_NoPoverty.pdf)
 	- **Data: Currently Unavailable**
 
 **Section 2: Map Design Considerations**
@@ -137,7 +137,7 @@ The UW Cart Lab also provides the [_Mapping for a Sustainable World: QGIS Techni
 	- [Legend](/figures/2.15-1_legend.pdf)
 - **Figure 2.15-2:** [Representing uncertainty](/figures/2.15-2.pdf)
 
-[Goal 5 Insert: Achieve Gender Equality and Empower All Women and Girls](/figures/SDG05_GenderEquality.pdf)
+[**Goal 5 Insert:** Achieve Gender Equality and Empower All Women and Girls](/figures/SDG05_GenderEquality.pdf)
 	- **Data: Currently Unavailable**
 
 **Section 3: Maps & Diagrams**
@@ -209,7 +209,7 @@ The UW Cart Lab also provides the [_Mapping for a Sustainable World: QGIS Techni
 - **Figure 3.12-1:** Diagrams for comparing relative values
 	- **Left:** [Pie chart](/figures/3.12-1a.pdf)
 	- **Centre:** [Donut chart](/figures/3.12-1b.pdf)
-	- **Right:** [Waffle chart]/3.12-1c.pdf)
+	- **Right:** [Waffle chart](/3.12-1c.pdf)
 	- **Data: Currently Unavailable**
 - **Figure 3.12-2:** Diagrams comparing absolute values
 	- **Left:** [Stacked bar chart](/figures/3.12-2a.pdf)
@@ -235,7 +235,7 @@ The UW Cart Lab also provides the [_Mapping for a Sustainable World: QGIS Techni
 	- **Bottom:** [A sorted stream graph relying on size, but on the line thickness rather than polygon area](/figures/3.14-2c.pdf)
 	- **Data: Currently Unavailable**
 	
-[Goal 9 Insert: Build Resilient Infrastructure, Promote Sustainable Industrialization, & Foster Innovation](/figures/SDG09_Infrastructure.pdf)
+[**Goal 9 Insert:** Build Resilient Infrastructure, Promote Sustainable Industrialization, & Foster Innovation](/figures/SDG09_Infrastructure.pdf)
 	- **Data: Currently Unavailable**
 
 **Section 4: Map Use Environments**
@@ -282,5 +282,5 @@ The UW Cart Lab also provides the [_Mapping for a Sustainable World: QGIS Techni
 - **Figure 4.12-2:** [User-centred design](/figures/4.12-2.pdf)
 - **Figure 4.13-1:** [Mapping for a Sustainable World](/figures/4.13-1.pdf)
 
-[Goal 13 Insert: Take Urgent Action to Combat Climate Change](/figures/SDG13_ClimateChange.pdf)
+[**Goal 13 Insert:** Take Urgent Action to Combat Climate Change](/figures/SDG13_ClimateChange.pdf)
 	- **Data: Currently Unavailable**
