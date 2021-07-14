@@ -17,7 +17,7 @@ Database](https://unstats.un.org/sdgs/indicators/database/), which is continuous
 
 The UW Cart Lab also provides the [_Mapping for a Sustainable World: QGIS Technical Supplement_](https://github.com/uwcartlab/MappingSDGsTechnicalSupplement) to walkthrough how to recreate these figures using the QGIS open source mapping software. All archived materials, including the QGIS Supplement and contents of the Mapping for a Sustainable World cartography book, are available for classroom or workshop use following a CC BY-NC license.
 
-[**Summary of All Archived Datasets**](/data/UNSDG_DataSummary_20201130.xls)
+[**Summary of All Archived Datasets**](/data/UNSDG_DataSummary_20201130.xlsx)
 
 **Section 1: SDGs & Geospatial Data**
 - Figure 1.1-1: [The SDGs](/figures/1.1-1.pdf)
