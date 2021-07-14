@@ -8,7 +8,7 @@
 
 The [University of Wisconsin Cartography Lab](https://www.geography.wisc.edu/cartography/) supported creation of the book layout and all maps and graphics through [National Science Foundation CAREER Grant #1555267](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1555267). The book and all included maps and graphics are available as open access materials through a CC BY-NC license.
 
-[**Download the Book for Free**](https://digitallibrary.un.org/record/3898826)
+[**Download the Book for Free (74MB)**](https://digitallibrary.un.org/record/3898826)
 
 ## Figure Data & Design Archive
 
@@ -17,7 +17,7 @@ Database](https://unstats.un.org/sdgs/indicators/database/), which is continuous
 
 The UW Cart Lab also provides the [_Mapping for a Sustainable World: QGIS Technical Supplement_](https://github.com/uwcartlab/MappingSDGsTechnicalSupplement) to walkthrough how to recreate these figures using the QGIS open source mapping software. All archived materials, including the QGIS Supplement and contents of the Mapping for a Sustainable World cartography book, are available for classroom or workshop use following a CC BY-NC license.
 
-Summary of All Archived Datasets
+[**Summary of All Archived Datasets**](/data/UNSDG_DataSummary_20201130.xls)
 
 **Section 1: SDGs & Geospatial Data**
 - Figure 1.1-1: [The SDGs](/figures/1.1-1.pdf)
