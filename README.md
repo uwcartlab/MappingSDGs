@@ -20,7 +20,7 @@ The UW Cart Lab also provides the [_Mapping for a Sustainable World: QGIS Techni
 Summary of All Archived Datasets
 
 **Section 1: SDGs & Geospatial Data**
-- Figure 1.1-1: The SDGs. [PDF](/1_Choropleth/1.1_Scope.md)
+- Figure 1.1-1: The SDGs. [PDF](/figures/Figure1.1-1.pdf)
 - Figure 1.2-1: Components of geospatial data. [PDF](/1_Choropleth/1.1_Scope.md)
 - Figure 1.2-2: Attributes. [PDF](/1_Choropleth/1.1_Scope.md)
 - Figure 1.2-3: Time. [PDF](/1_Choropleth/1.1_Scope.md)
