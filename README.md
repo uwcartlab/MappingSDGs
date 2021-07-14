@@ -21,8 +21,10 @@ Summary of All Archived Datasets
 
 **Section 1: SDGs & Geospatial Data**
 - Figure 1.1-1: [The SDGs](/figures/1.1-1.pdf)
-- Figure 1.2-1: Components of geospatial data. [PDF](/1_Choropleth/1.1_Scope.md)
-- Figure 1.2-2: Attributes. [PDF](/1_Choropleth/1.1_Scope.md)
+- Figure 1.2-1: [Components of geospatial data](/figures/1.2-1.pdf)
+- Figure 1.2-2: Attributes.
+	- Left: [A qualitative attribute](/figures/1.2-2a.pdf)
+	- Right: [A quantitative attribute](/figures/1.2-2b.pdf)
 - Figure 1.2-3: Time. [PDF](/1_Choropleth/1.1_Scope.md)
 - Figure 1.2-4: Example data from the Global SDGs Indicators Database. [PDF](/1_Choropleth/1.1_Scope.md)
 - Figure 1.3-1: M49 regions and subregions. [PDF](/1_Choropleth/1.1_Scope.md)
