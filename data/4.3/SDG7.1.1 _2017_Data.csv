@@ -1,0 +1,215 @@
+﻿ObjectId,Goal,Target,Indiciator,Series,SeriesDescription,geoAreaCode,geoAreaName,Time_detail,parentCode,parentName,type,ISO3,Value,Units
+1,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",100,Bulgaria,2017,151,Eastern Europe,Country,BGR,100,Percentage
+5,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",104,Myanmar,2017,35,South-Eastern Asia,Country,MMR,69.81484,Percentage
+7,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",108,Burundi,2017,14,Eastern Africa,Country,BDI,9.3,Percentage
+11,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",112,Belarus,2017,151,Eastern Europe,Country,BLR,100,Percentage
+13,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",116,Cambodia,2017,35,South-Eastern Asia,Country,KHM,89.07,Percentage
+17,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",12,Algeria,2017,15,Northern Africa,Country,DZA,100,Percentage
+20,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",120,Cameroon,2017,17,Middle Africa,Country,CMR,61.40187,Percentage
+22,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",124,Canada,2017,21,Northern America,Country,CAN,100,Percentage
+25,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",132,Cabo Verde,2017,11,Western Africa,Country,CPV,92.91364,Percentage
+29,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",136,Cayman Islands,2017,29,Caribbean,Country,CYM,100,Percentage
+32,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",140,Central African Republic,2017,17,Middle Africa,Country,CAF,29.98204,Percentage
+35,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",144,Sri Lanka,2017,34,Southern Asia,Country,LKA,97.54498,Percentage
+37,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",148,Chad,2017,17,Middle Africa,Country,TCD,10.87642,Percentage
+40,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",152,Chile,2017,5,South America,Country,CHL,100,Percentage
+43,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",156,China,2017,30,Eastern Asia,Country,CHN,100,Percentage
+47,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",170,Colombia,2017,5,South America,Country,COL,99.59524,Percentage
+49,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",174,Comoros,2017,14,Eastern Africa,Country,COM,79.93129,Percentage
+52,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",178,Congo,2017,11,Western Africa,Country,COG,66.21485,Percentage
+56,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",180,Democratic Republic of the Congo,2017,17,Middle Africa,Country,COD,19.09363,Percentage
+58,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",184,Cook Islands,2017,61,Polynesia,Country,COK,100,Percentage
+62,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",188,Costa Rica,2017,13,Central America,Country,CRI,99.6,Percentage
+64,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",191,Croatia,2017,39,Southern Europe,Country,HRV,100,Percentage
+67,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",192,Cuba,2017,29,Caribbean,Country,CUB,100,Percentage
+71,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",196,Cyprus,2017,145,Western Asia,Country,CYP,100,Percentage
+74,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",20,Andorra,2017,39,Southern Europe,Country,AND,100,Percentage
+76,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",203,Czechia,2017,151,Eastern Europe,Country,CZE,100,Percentage
+80,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",204,Benin,2017,11,Western Africa,Country,BEN,43.07775,Percentage
+83,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",208,Denmark,2017,154,Northern Europe,Country,DNK,100,Percentage
+86,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",212,Dominica,2017,29,Caribbean,Country,DMA,100,Percentage
+88,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",214,Dominican Republic,2017,29,Caribbean,Country,DOM,100,Percentage
+91,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",218,Ecuador,2017,5,South America,Country,ECU,100,Percentage
+94,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",222,El Salvador,2017,13,Central America,Country,SLV,99.49039,Percentage
+97,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",226,Equatorial Guinea,2017,17,Middle Africa,Country,GNQ,67.1841,Percentage
+101,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",231,Ethiopia,2017,14,Eastern Africa,Country,ETH,44.3,Percentage
+102,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",36,Australia,2017,53,Australia and New Zealand,Country,AUS,100,Percentage
+106,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",360,Indonesia,2017,35,South-Eastern Asia,Country,IDN,98.14,Percentage
+109,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",364,Iran (Islamic Republic of),2017,34,Southern Asia,Country,IRN,100,Percentage
+112,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",368,Iraq,2017,145,Western Asia,Country,IRQ,100,Percentage
+115,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",372,Ireland,2017,154,Northern Europe,Country,IRL,100,Percentage
+117,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",376,Israel,2017,145,Western Asia,Country,ISR,100,Percentage
+120,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",380,Italy,2017,39,Southern Europe,Country,ITA,100,Percentage
+123,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",384,Côte d'Ivoire,2017,11,Western Africa,Country,CIV,65.63576,Percentage
+126,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",388,Jamaica,2017,29,Caribbean,Country,JAM,99.50645,Percentage
+129,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",392,Japan,2017,30,Eastern Asia,Country,JPN,100,Percentage
+132,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",398,Kazakhstan,2017,143,Central Asia,Country,KAZ,100,Percentage
+137,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",4,Afghanistan,2017,34,Southern Asia,Country,AFG,97.7,Percentage
+138,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",40,Austria,2017,155,Western Europe,Country,AUT,100,Percentage
+142,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",400,Jordan,2017,145,Western Asia,Country,JOR,100,Percentage
+144,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",404,Kenya,2017,14,Eastern Africa,Country,KEN,63.81147,Percentage
+148,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",408,Democratic People's Republic of Korea,2017,30,Eastern Asia,Country,PRK,43.87118,Percentage
+151,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",410,Republic of Korea,2017,30,Eastern Asia,Country,KOR,100,Percentage
+153,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",414,Kuwait,2017,145,Western Asia,Country,KWT,100,Percentage
+157,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",417,Kyrgyzstan,2017,143,Central Asia,Country,KGZ,100,Percentage
+159,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",418,Lao People's Democratic Republic,2017,35,South-Eastern Asia,Country,LAO,93.6,Percentage
+163,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",422,Lebanon,2017,145,Western Asia,Country,LBN,100,Percentage
+166,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",426,Lesotho,2017,18,Southern Africa,Country,LSO,33.73076,Percentage
+169,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",428,Latvia,2017,154,Northern Europe,Country,LVA,100,Percentage
+172,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",430,Liberia,2017,11,Western Africa,Country,LBR,21.48887,Percentage
+175,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",434,Libya,2017,15,Northern Africa,Country,LBY,70.1482,Percentage
+177,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",438,Liechtenstein,2017,155,Western Europe,Country,LIE,100,Percentage
+180,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",44,Bahamas,2017,29,Caribbean,Country,BHS,100,Percentage
+184,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",440,Lithuania,2017,154,Northern Europe,Country,LTU,100,Percentage
+187,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",442,Luxembourg,2017,155,Western Europe,Country,LUX,100,Percentage
+190,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",446,"China, Macao Special Administrative Region",2017,30,Eastern Asia,Country,MAC,100,Percentage
+193,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",450,Madagascar,2017,14,Eastern Africa,Country,MDG,24.07539,Percentage
+196,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",454,Malawi,2017,14,Eastern Africa,Country,MWI,12.7,Percentage
+199,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",458,Malaysia,2017,35,South-Eastern Asia,Country,MYS,100,Percentage
+201,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",462,Maldives,2017,34,Southern Asia,Country,MDV,99.8,Percentage
+204,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",232,Eritrea,2017,14,Eastern Africa,Country,ERI,48.42379,Percentage
+207,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",233,Estonia,2017,154,Northern Europe,Country,EST,100,Percentage
+211,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",234,Faroe Islands,2017,154,Northern Europe,Country,FRO,100,Percentage
+214,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",24,Angola,2017,17,Middle Africa,Country,AGO,41.88623,Percentage
+217,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",242,Fiji,2017,54,Melanesia,Country,FJI,96,Percentage
+219,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",246,Finland,2017,154,Northern Europe,Country,FIN,100,Percentage
+222,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",250,France,2017,155,Western Europe,Country,FRA,100,Percentage
+225,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",258,French Polynesia,2017,61,Polynesia,Country,PYF,100,Percentage
+229,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",262,Djibouti,2017,14,Eastern Africa,Country,DJI,60.2,Percentage
+232,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",266,Gabon,2017,17,Middle Africa,Country,GAB,92.1912,Percentage
+235,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",268,Georgia,2017,145,Western Asia,Country,GEO,100,Percentage
+237,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",270,Gambia,2017,11,Western Africa,Country,GMB,56.2,Percentage
+241,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",275,State of Palestine,2017,145,Western Asia,Country,PSE,100,Percentage
+243,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",276,Germany,2017,155,Western Europe,Country,DEU,100,Percentage
+247,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",28,Antigua and Barbuda,2017,29,Caribbean,Country,ATG,100,Percentage
+250,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",288,Ghana,2017,11,Western Africa,Country,GHA,79,Percentage
+252,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",292,Gibraltar,2017,39,Southern Europe,Country,GIB,100,Percentage
+256,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",296,Kiribati,2017,57,Micronesia,Country,KIR,98.61457,Percentage
+258,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",300,Greece,2017,39,Southern Europe,Country,GRC,100,Percentage
+262,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",304,Greenland,2017,21,Northern America,Country,GRL,100,Percentage
+265,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",308,Grenada,2017,29,Caribbean,Country,GRD,94.69567,Percentage
+268,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",31,Azerbaijan,2017,145,Western Asia,Country,AZE,100,Percentage
+271,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",316,Guam,2017,57,Micronesia,Country,GUM,100,Percentage
+274,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",32,Argentina,2017,5,South America,Country,ARG,100,Percentage
+278,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",320,Guatemala,2017,13,Central America,Country,GTM,93.28809,Percentage
+281,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",324,Guinea,2017,11,Western Africa,Country,GIN,35.44122,Percentage
+284,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",328,Guyana,2017,5,South America,Country,GUY,90.86488,Percentage
+286,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",332,Haiti,2017,29,Caribbean,Country,HTI,43.75256,Percentage
+289,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",340,Honduras,2017,13,Central America,Country,HND,86.5,Percentage
+292,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",344,"China, Hong Kong Special Administrative Region",2017,30,Eastern Asia,Country,HKG,100,Percentage
+295,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",348,Hungary,2017,151,Eastern Europe,Country,HUN,100,Percentage
+298,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",352,Iceland,2017,154,Northern Europe,Country,ISL,100,Percentage
+302,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",356,India,2017,34,Southern Asia,Country,IND,92.61866,Percentage
+305,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",466,Mali,2017,11,Western Africa,Country,MLI,43.08984,Percentage
+307,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",470,Malta,2017,39,Southern Europe,Country,MLT,100,Percentage
+311,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",703,Slovakia,2017,151,Eastern Europe,Country,SVK,100,Percentage
+313,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",478,Mauritania,2017,11,Western Africa,Country,MRT,42.91232,Percentage
+315,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",48,Bahrain,2017,145,Western Asia,Country,BHR,100,Percentage
+317,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",480,Mauritius,2017,14,Eastern Africa,Country,MUS,98.03143,Percentage
+321,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",484,Mexico,2017,13,Central America,Country,MEX,100,Percentage
+323,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",492,Monaco,2017,155,Western Europe,Country,MCO,100,Percentage
+327,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",496,Mongolia,2017,30,Eastern Asia,Country,MNG,85.86965,Percentage
+330,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",498,Republic of Moldova,2017,151,Eastern Europe,Country,MDA,100,Percentage
+333,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",499,Montenegro,2017,39,Southern Europe,Country,MNE,100,Percentage
+336,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",50,Bangladesh,2017,34,Southern Asia,Country,BGD,88,Percentage
+339,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",504,Morocco,2017,15,Northern Africa,Country,MAR,100,Percentage
+343,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",508,Mozambique,2017,14,Eastern Africa,Country,MOZ,27.42547,Percentage
+344,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",51,Armenia,2017,145,Western Asia,Country,ARM,100,Percentage
+349,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",512,Oman,2017,145,Western Asia,Country,OMN,100,Percentage
+350,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",516,Namibia,2017,18,Southern Africa,Country,NAM,52.50118,Percentage
+353,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",52,Barbados,2017,29,Caribbean,Country,BRB,100,Percentage
+357,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",520,Nauru,2017,57,Micronesia,Country,NRU,99.55317,Percentage
+359,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",524,Nepal,2017,34,Southern Asia,Country,NPL,95.50748,Percentage
+362,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",528,Netherlands,2017,155,Western Europe,Country,NLD,100,Percentage
+366,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",531,Curaçao,2017,29,Caribbean,Country,CUW,100,Percentage
+369,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",533,Aruba,2017,29,Caribbean,Country,ABW,100,Percentage
+372,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",534,Sint Maarten (Dutch part),2017,29,Caribbean,Country,SXM,100,Percentage
+376,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",540,New Caledonia,2017,54,Melanesia,Country,NCL,100,Percentage
+377,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",548,Vanuatu,2017,54,Melanesia,Country,VUT,62.78429,Percentage
+381,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",554,New Zealand,2017,53,Australia and New Zealand,Country,NZL,100,Percentage
+385,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",558,Nicaragua,2017,13,Central America,Country,NIC,86.7678,Percentage
+387,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",56,Belgium,2017,155,Western Europe,Country,BEL,100,Percentage
+390,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",562,Niger,2017,11,Western Africa,Country,NER,20.0419,Percentage
+392,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",566,Nigeria,2017,11,Western Africa,Country,NGA,54.4,Percentage
+396,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",570,Niue,2017,61,Polynesia,Country,NIU,100,Percentage
+398,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",578,Norway,2017,154,Northern Europe,Country,NOR,100,Percentage
+403,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",580,Northern Mariana Islands,2017,57,Micronesia,Country,MNP,100,Percentage
+404,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",583,Micronesia (Federated States of),2017,57,Micronesia,Country,FSM,80.75668,Percentage
+409,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",704,Viet Nam,2017,35,South-Eastern Asia,Country,VNM,100,Percentage
+411,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",705,Slovenia,2017,39,Southern Europe,Country,SVN,100,Percentage
+414,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",706,Somalia,2017,14,Eastern Africa,Country,SOM,32.94651,Percentage
+416,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",710,South Africa,2017,18,Southern Africa,Country,ZAF,84.4,Percentage
+420,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",716,Zimbabwe,2017,14,Eastern Africa,Country,ZWE,40.42137,Percentage
+423,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",72,Botswana,2017,18,Southern Africa,Country,BWA,62.82495,Percentage
+426,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",724,Spain,2017,39,Southern Europe,Country,ESP,100,Percentage
+429,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",728,South Sudan,2017,14,Eastern Africa,Country,SSD,25.38207,Percentage
+431,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",729,Sudan,2017,15,Northern Africa,Country,SDN,56.45155,Percentage
+436,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",740,Suriname,2017,5,South America,Country,SUR,96.78314,Percentage
+438,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",752,Sweden,2017,154,Northern Europe,Country,SWE,100,Percentage
+441,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",756,Switzerland,2017,155,Western Europe,Country,CHE,100,Percentage
+444,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",76,Brazil,2017,5,South America,Country,BRA,100,Percentage
+447,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",760,Syrian Arab Republic,2017,145,Western Asia,Country,SYR,89.63879,Percentage
+451,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",762,Tajikistan,2017,143,Central Asia,Country,TJK,99.3,Percentage
+452,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",764,Thailand,2017,35,South-Eastern Asia,Country,THA,100,Percentage
+455,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",768,Togo,2017,11,Western Africa,Country,TGO,48,Percentage
+458,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",776,Tonga,2017,61,Polynesia,Country,TON,97.96759,Percentage
+461,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",780,Trinidad and Tobago,2017,29,Caribbean,Country,TTO,100,Percentage
+465,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",784,United Arab Emirates,2017,145,Western Asia,Country,ARE,100,Percentage
+468,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",788,Tunisia,2017,15,Northern Africa,Country,TUN,100,Percentage
+471,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",792,Turkey,2017,145,Western Asia,Country,TUR,100,Percentage
+474,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",795,Turkmenistan,2017,143,Central Asia,Country,TKM,100,Percentage
+476,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",796,Turks and Caicos Islands,2017,29,Caribbean,Country,TCA,100,Percentage
+479,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",798,Tuvalu,2017,61,Polynesia,Country,TUV,100,Percentage
+484,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",8,Albania,2017,39,Southern Europe,Country,ALB,100,Percentage
+486,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",800,Uganda,2017,14,Eastern Africa,Country,UGA,22,Percentage
+489,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",804,Ukraine,2017,151,Eastern Europe,Country,UKR,100,Percentage
+492,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",807,North Macedonia,2017,39,Southern Europe,Country,MKD,100,Percentage
+494,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",818,Egypt,2017,15,Northern Africa,Country,EGY,100,Percentage
+497,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",826,United Kingdom of Great Britain and Northern Ireland,2017,154,Northern Europe,Country,GBR,100,Percentage
+501,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",833,Isle of Man,2017,154,Northern Europe,Country,IMN,100,Percentage
+504,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",834,United Republic of Tanzania,2017,14,Eastern Africa,Country,TZA,32.81333,Percentage
+509,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",584,Marshall Islands,2017,57,Micronesia,Country,MHL,94.755,Percentage
+511,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",585,Palau,2017,57,Micronesia,Country,PLW,100,Percentage
+514,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",586,Pakistan,2017,34,Southern Asia,Country,PAK,70.79,Percentage
+517,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",591,Panama,2017,13,Central America,Country,PAN,100,Percentage
+519,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",598,Papua New Guinea,2017,54,Melanesia,Country,PNG,54.42745,Percentage
+522,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",60,Bermuda,2017,21,Northern America,Country,BMU,100,Percentage
+526,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",600,Paraguay,2017,5,South America,Country,PRY,99.3,Percentage
+529,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",604,Peru,2017,5,South America,Country,PER,96.36299,Percentage
+533,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",608,Philippines,2017,35,South-Eastern Asia,Country,PHL,93,Percentage
+535,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",616,Poland,2017,151,Eastern Europe,Country,POL,100,Percentage
+538,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",620,Portugal,2017,39,Southern Europe,Country,PRT,100,Percentage
+541,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",624,Guinea-Bissau,2017,11,Western Africa,Country,GNB,26.04735,Percentage
+544,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",626,Timor-Leste,2017,35,South-Eastern Asia,Country,TLS,80.38075,Percentage
+546,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",84,Belize,2017,13,Central America,Country,BLZ,98.26512,Percentage
+548,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",630,Puerto Rico,2017,29,Caribbean,Country,PRI,100,Percentage
+550,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",634,Qatar,2017,145,Western Asia,Country,QAT,100,Percentage
+553,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",64,Bhutan,2017,34,Southern Asia,Country,BTN,97.7,Percentage
+556,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",642,Romania,2017,151,Eastern Europe,Country,ROU,100,Percentage
+559,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",643,Russian Federation,2017,151,Eastern Europe,Country,RUS,100,Percentage
+563,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",646,Rwanda,2017,14,Eastern Africa,Country,RWA,34.1,Percentage
+566,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",659,Saint Kitts and Nevis,2017,29,Caribbean,Country,KNA,100,Percentage
+568,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",660,Anguilla,2017,29,Caribbean,Country,AIA,100,Percentage
+572,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",662,Saint Lucia,2017,29,Caribbean,Country,LCA,98.75979,Percentage
+576,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",670,Saint Vincent and the Grenadines,2017,29,Caribbean,Country,VCT,100,Percentage
+578,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",674,San Marino,2017,39,Southern Europe,Country,SMR,100,Percentage
+581,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",678,Sao Tome and Principe,2017,17,Middle Africa,Country,STP,72.5107,Percentage
+583,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",68,Bolivia (Plurinational State of),2017,5,South America,Country,BOL,91.8,Percentage
+587,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",682,Saudi Arabia,2017,145,Western Asia,Country,SAU,100,Percentage
+590,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",686,Senegal,2017,11,Western Africa,Country,SEN,61.7,Percentage
+594,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",688,Serbia,2017,39,Southern Europe,Country,SRB,100,Percentage
+595,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",690,Seychelles,2017,14,Eastern Africa,Country,SYC,100,Percentage
+598,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",694,Sierra Leone,2017,11,Western Africa,Country,SLE,23.4,Percentage
+601,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",70,Bosnia and Herzegovina,2017,39,Southern Europe,Country,BIH,100,Percentage
+604,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",702,Singapore,2017,35,South-Eastern Asia,Country,SGP,100,Percentage
+611,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",840,United States of America,2017,21,Northern America,Country,USA,100,Percentage
+613,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",850,United States Virgin Islands,2017,29,Caribbean,Country,VIR,100,Percentage
+617,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",854,Burkina Faso,2017,11,Western Africa,Country,BFA,25.47374,Percentage
+620,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",858,Uruguay,2017,5,South America,Country,URY,100,Percentage
+622,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",860,Uzbekistan,2017,143,Central Asia,Country,UZB,100,Percentage
+625,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",862,Venezuela (Bolivarian Republic of),2017,5,South America,Country,VEN,100,Percentage
+630,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",882,Samoa,2017,61,Polynesia,Country,WSM,96.8,Percentage
+632,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",887,Yemen,2017,145,Western Asia,Country,YEM,79.2,Percentage
+635,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",894,Zambia,2017,14,Eastern Africa,Country,ZMB,40.3,Percentage
+638,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",90,Solomon Islands,2017,54,Melanesia,Country,SLB,62.89564,Percentage
+640,7,7.1,7.1.1,EG_ELC_ACCS,"Proportion of population with access to electricity, by urban/rural (%)",96,Brunei Darussalam,2017,35,South-Eastern Asia,Country,BRN,100,Percentage

@@ -1,0 +1,12 @@
+Goal,Target,Indicator,SeriesCode,SeriesDescription,GeoAreaCode,ISOCD,GeoAreaName,Nature,Reporting_Type,Type_of_product,Units,Y2005,Y2010,Y2015,Y2016,Y2017,Y2018
+17,17.1,17.10.1,TM_TAX_WMFN,"Worldwide weighted tariff-average, most-favoured-nation status, by type of product (%)",96,BRN,Brunei Darussalam,C,G,ALP,PERCENT,7.23,6.48,1.11,1.19,0.24,0.3
+17,17.1,17.10.1,TM_TAX_WMFN,"Worldwide weighted tariff-average, most-favoured-nation status, by type of product (%)",360,IDN,Indonesia,C,G,ALP,PERCENT,4.61,4.54,4.34,4.71,10.43,10.4
+17,17.1,17.10.1,TM_TAX_WMFN,"Worldwide weighted tariff-average, most-favoured-nation status, by type of product (%)",116,KHM,Cambodia,C,G,ALP,PERCENT,11.45,11.55,9.54,9.54,10.44,10.4
+17,17.1,17.10.1,TM_TAX_WMFN,"Worldwide weighted tariff-average, most-favoured-nation status, by type of product (%)",104,MMR,Myanmar,C,G,ALP,PERCENT,4.45,2.76,5.32,,4.06,4.1
+17,17.1,17.10.1,TM_TAX_WMFN,"Worldwide weighted tariff-average, most-favoured-nation status, by type of product (%)",458,MYS,Malaysia,C,G,ALP,PERCENT,5.07,5.31,4.57,4.35,3.98,4.0
+17,17.1,17.10.1,TM_TAX_WMFN,"Worldwide weighted tariff-average, most-favoured-nation status, by type of product (%)",608,PHL,Philippines,C,G,ALP,PERCENT,3.69,5.56,5.86,6.08,6.18,4.9
+17,17.1,17.10.1,TM_TAX_WMFN,"Worldwide weighted tariff-average, most-favoured-nation status, by type of product (%)",702,SGP,Singapore,C,G,ALP,PERCENT,0.02,0.03,0.06,0.05,0,0.1
+17,17.1,17.10.1,TM_TAX_WMFN,"Worldwide weighted tariff-average, most-favoured-nation status, by type of product (%)",764,THA,Thailand,C,G,ALP,PERCENT,5.6,6.44,6.98,7.21,7.19,7.2
+17,17.1,17.10.1,TM_TAX_WMFN,"Worldwide weighted tariff-average, most-favoured-nation status, by type of product (%)",704,VNM,Viet Nam,C,G,ALP,PERCENT,12.41,6.22,5.2,5.38,5.5,4.9
+17,17.1,17.10.1,TM_TAX_WMFN,"Worldwide weighted tariff-average, most-favoured-nation status, by type of product (%)",418,LAO,Lao People's Democratic Republic,C,G,ALP,PERCENT,13.71,13.46,13.17,,8.27,8.3
+17,17.1,17.10.1,TM_TAX_WMFN,"Worldwide weighted tariff-average, most-favoured-nation status, by type of product (%)",626,TLS,Timor-Leste,C,G,ALP,PERCENT,2.5,2.5,2.5,2.5,2.5,2.5

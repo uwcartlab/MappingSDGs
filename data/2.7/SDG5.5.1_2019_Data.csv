@@ -1,0 +1,194 @@
+﻿ObjectId,Goal,Target,Indicator,Series,SeriesDescription,GeoAreaCode,GeoAreaName,Time_details,parentCode,parentName,type,ISO3,Value,Units,nature
+1,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),100,Bulgaria,2019,151,Eastern Europe,Country,BGR,25.83,Percentage,C: Country data
+2,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),104,Myanmar,2019,35,South-Eastern Asia,Country,MMR,11.32,Percentage,C: Country data
+3,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),108,Burundi,2019,14,Eastern Africa,Country,BDI,36.36,Percentage,C: Country data
+4,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),112,Belarus,2019,151,Eastern Europe,Country,BLR,34.55,Percentage,C: Country data
+5,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),116,Cambodia,2019,35,South-Eastern Asia,Country,KHM,20,Percentage,C: Country data
+6,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),12,Algeria,2019,15,Northern Africa,Country,DZA,25.76,Percentage,C: Country data
+7,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),120,Cameroon,2019,17,Middle Africa,Country,CMR,31.11,Percentage,C: Country data
+8,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),124,Canada,2019,21,Northern America,Country,CAN,26.95,Percentage,C: Country data
+9,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),132,Cabo Verde,2019,11,Western Africa,Country,CPV,23.61,Percentage,C: Country data
+10,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),140,Central African Republic,2019,17,Middle Africa,Country,CAF,8.57,Percentage,C: Country data
+11,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),144,Sri Lanka,2019,34,Southern Asia,Country,LKA,5.33,Percentage,C: Country data
+12,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),148,Chad,2019,17,Middle Africa,Country,TCD,14.88,Percentage,C: Country data
+13,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),152,Chile,2019,5,South America,Country,CHL,22.58,Percentage,C: Country data
+14,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),156,China,2019,30,Eastern Asia,Country,CHN,24.94,Percentage,C: Country data
+15,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),170,Colombia,2019,5,South America,Country,COL,18.71,Percentage,C: Country data
+16,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),174,Comoros,2019,14,Eastern Africa,Country,COM,6.06,Percentage,C: Country data
+17,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),178,Congo,2019,11,Western Africa,Country,COG,11.26,Percentage,C: Country data
+18,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),180,Democratic Republic of the Congo,2019,17,Middle Africa,Country,COD,10.31,Percentage,C: Country data
+19,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),188,Costa Rica,2019,13,Central America,Country,CRI,45.61,Percentage,C: Country data
+20,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),191,Croatia,2019,39,Southern Europe,Country,HRV,20.53,Percentage,C: Country data
+21,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),192,Cuba,2019,29,Caribbean,Country,CUB,53.22,Percentage,C: Country data
+22,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),196,Cyprus,2019,145,Western Asia,Country,CYP,17.86,Percentage,C: Country data
+23,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),20,Andorra,2019,39,Southern Europe,Country,AND,32.14,Percentage,C: Country data
+24,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),203,Czechia,2019,151,Eastern Europe,Country,CZE,22.5,Percentage,C: Country data
+25,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),204,Benin,2019,11,Western Africa,Country,BEN,7.23,Percentage,C: Country data
+26,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),208,Denmark,2019,154,Northern Europe,Country,DNK,37.43,Percentage,C: Country data
+27,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),212,Dominica,2019,29,Caribbean,Country,DMA,25,Percentage,C: Country data
+28,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),214,Dominican Republic,2019,29,Caribbean,Country,DOM,26.84,Percentage,C: Country data
+29,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),218,Ecuador,2019,5,South America,Country,ECU,37.96,Percentage,C: Country data
+30,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),222,El Salvador,2019,13,Central America,Country,SLV,30.95,Percentage,C: Country data
+31,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),226,Equatorial Guinea,2019,17,Middle Africa,Country,GNQ,20,Percentage,C: Country data
+32,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),231,Ethiopia,2019,14,Eastern Africa,Country,ETH,38.76,Percentage,C: Country data
+33,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),232,Eritrea,2019,14,Eastern Africa,Country,ERI,22,Percentage,C: Country data
+34,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),233,Estonia,2019,154,Northern Europe,Country,EST,28.71,Percentage,C: Country data
+35,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),24,Angola,2019,17,Middle Africa,Country,AGO,30,Percentage,C: Country data
+36,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),242,Fiji,2019,54,Melanesia,Country,FJI,19.61,Percentage,C: Country data
+37,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),246,Finland,2019,154,Northern Europe,Country,FIN,41.5,Percentage,C: Country data
+38,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),250,France,2019,155,Western Europe,Country,FRA,39.69,Percentage,C: Country data
+39,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),262,Djibouti,2019,14,Eastern Africa,Country,DJI,26.15,Percentage,C: Country data
+40,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),266,Gabon,2019,17,Middle Africa,Country,GAB,17.91,Percentage,C: Country data
+41,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),268,Georgia,2019,145,Western Asia,Country,GEO,14.77,Percentage,C: Country data
+42,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),270,Gambia,2019,11,Western Africa,Country,GMB,10.34,Percentage,C: Country data
+43,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),276,Germany,2019,155,Western Europe,Country,DEU,30.89,Percentage,C: Country data
+44,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),28,Antigua and Barbuda,2019,29,Caribbean,Country,ATG,11.11,Percentage,C: Country data
+45,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),288,Ghana,2019,11,Western Africa,Country,GHA,13.09,Percentage,C: Country data
+46,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),296,Kiribati,2019,57,Micronesia,Country,KIR,6.52,Percentage,C: Country data
+47,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),300,Greece,2019,39,Southern Europe,Country,GRC,18.67,Percentage,C: Country data
+48,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),308,Grenada,2019,29,Caribbean,Country,GRD,46.67,Percentage,C: Country data
+49,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),31,Azerbaijan,2019,145,Western Asia,Country,AZE,16.81,Percentage,C: Country data
+50,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),32,Argentina,2019,5,South America,Country,ARG,38.82,Percentage,C: Country data
+51,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),320,Guatemala,2019,13,Central America,Country,GTM,18.99,Percentage,C: Country data
+52,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),324,Guinea,2019,11,Western Africa,Country,GIN,22.81,Percentage,C: Country data
+53,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),328,Guyana,2019,5,South America,Country,GUY,31.88,Percentage,C: Country data
+54,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),332,Haiti,2019,29,Caribbean,Country,HTI,2.54,Percentage,C: Country data
+55,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),340,Honduras,2019,13,Central America,Country,HND,21.09,Percentage,C: Country data
+56,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),348,Hungary,2019,151,Eastern Europe,Country,HUN,12.56,Percentage,C: Country data
+57,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),352,Iceland,2019,154,Northern Europe,Country,ISL,38.1,Percentage,C: Country data
+58,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),356,India,2019,34,Southern Asia,Country,IND,12.6,Percentage,C: Country data
+59,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),36,Australia,2019,53,Australia and New Zealand,Country,AUS,30,Percentage,C: Country data
+60,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),360,Indonesia,2019,35,South-Eastern Asia,Country,IDN,18.21,Percentage,C: Country data
+61,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),364,Iran (Islamic Republic of),2019,34,Southern Asia,Country,IRN,5.88,Percentage,C: Country data
+62,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),368,Iraq,2019,145,Western Asia,Country,IRQ,25.23,Percentage,C: Country data
+63,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),372,Ireland,2019,154,Northern Europe,Country,IRL,22.15,Percentage,C: Country data
+64,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),376,Israel,2019,145,Western Asia,Country,ISR,29.17,Percentage,C: Country data
+65,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),380,Italy,2019,39,Southern Europe,Country,ITA,35.71,Percentage,C: Country data
+66,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),584,Marshall Islands,2019,57,Micronesia,Country,MHL,9.09,Percentage,C: Country data
+67,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),384,Côte d'Ivoire,2019,11,Western Africa,Country,CIV,10.98,Percentage,C: Country data
+68,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),388,Jamaica,2019,29,Caribbean,Country,JAM,17.46,Percentage,C: Country data
+69,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),392,Japan,2019,30,Eastern Asia,Country,JPN,10.15,Percentage,C: Country data
+70,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),398,Kazakhstan,2019,143,Central Asia,Country,KAZ,27.1,Percentage,C: Country data
+71,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),4,Afghanistan,2019,34,Southern Asia,Country,AFG,,Percentage,C: Country data
+72,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),40,Austria,2019,155,Western Europe,Country,AUT,37.16,Percentage,C: Country data
+73,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),400,Jordan,2019,145,Western Asia,Country,JOR,15.38,Percentage,C: Country data
+74,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),404,Kenya,2019,14,Eastern Africa,Country,KEN,21.78,Percentage,C: Country data
+75,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),408,Democratic People's Republic of Korea,2019,30,Eastern Asia,Country,PRK,16.3,Percentage,C: Country data
+76,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),410,Republic of Korea,2019,30,Eastern Asia,Country,KOR,17.11,Percentage,C: Country data
+77,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),414,Kuwait,2019,145,Western Asia,Country,KWT,4.62,Percentage,C: Country data
+78,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),417,Kyrgyzstan,2019,143,Central Asia,Country,KGZ,19.17,Percentage,C: Country data
+79,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),418,Lao People's Democratic Republic,2019,35,South-Eastern Asia,Country,LAO,27.52,Percentage,C: Country data
+80,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),422,Lebanon,2019,145,Western Asia,Country,LBN,4.69,Percentage,C: Country data
+81,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),426,Lesotho,2019,18,Southern Africa,Country,LSO,23.33,Percentage,C: Country data
+82,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),428,Latvia,2019,154,Northern Europe,Country,LVA,31,Percentage,C: Country data
+83,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),430,Liberia,2019,11,Western Africa,Country,LBR,12.33,Percentage,C: Country data
+84,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),434,Libya,2019,15,Northern Africa,Country,LBY,15.96,Percentage,C: Country data
+85,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),438,Liechtenstein,2019,155,Western Europe,Country,LIE,12,Percentage,C: Country data
+86,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),44,Bahamas,2019,29,Caribbean,Country,BHS,12.82,Percentage,C: Country data
+87,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),440,Lithuania,2019,154,Northern Europe,Country,LTU,21.28,Percentage,C: Country data
+88,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),442,Luxembourg,2019,155,Western Europe,Country,LUX,25,Percentage,C: Country data
+89,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),450,Madagascar,2019,14,Eastern Africa,Country,MDG,19.21,Percentage,C: Country data
+90,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),454,Malawi,2019,14,Eastern Africa,Country,MWI,16.67,Percentage,C: Country data
+91,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),458,Malaysia,2019,35,South-Eastern Asia,Country,MYS,14.41,Percentage,C: Country data
+92,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),462,Maldives,2019,34,Southern Asia,Country,MDV,4.71,Percentage,C: Country data
+93,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),466,Mali,2019,11,Western Africa,Country,MLI,8.84,Percentage,C: Country data
+94,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),470,Malta,2019,39,Southern Europe,Country,MLT,11.94,Percentage,C: Country data
+95,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),478,Mauritania,2019,11,Western Africa,Country,MRT,20.26,Percentage,C: Country data
+96,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),48,Bahrain,2019,145,Western Asia,Country,BHR,15,Percentage,C: Country data
+97,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),480,Mauritius,2019,14,Eastern Africa,Country,MUS,11.59,Percentage,C: Country data
+98,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),484,Mexico,2019,13,Central America,Country,MEX,48.2,Percentage,C: Country data
+99,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),492,Monaco,2019,155,Western Europe,Country,MCO,33.33,Percentage,C: Country data
+100,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),496,Mongolia,2019,30,Eastern Asia,Country,MNG,17.11,Percentage,C: Country data
+101,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),498,Republic of Moldova,2019,151,Eastern Europe,Country,MDA,22.77,Percentage,C: Country data
+102,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),499,Montenegro,2019,39,Southern Europe,Country,MNE,23.46,Percentage,C: Country data
+103,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),50,Bangladesh,2019,34,Southern Asia,Country,BGD,20.69,Percentage,C: Country data
+104,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),504,Morocco,2019,15,Northern Africa,Country,MAR,20.51,Percentage,C: Country data
+105,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),508,Mozambique,2019,14,Eastern Africa,Country,MOZ,39.6,Percentage,C: Country data
+106,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),51,Armenia,2019,145,Western Asia,Country,ARM,24.24,Percentage,C: Country data
+107,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),512,Oman,2019,145,Western Asia,Country,OMN,1.18,Percentage,C: Country data
+108,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),516,Namibia,2019,18,Southern Africa,Country,NAM,46.15,Percentage,C: Country data
+109,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),52,Barbados,2019,29,Caribbean,Country,BRB,20,Percentage,C: Country data
+110,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),520,Nauru,2019,57,Micronesia,Country,NRU,10.53,Percentage,C: Country data
+111,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),524,Nepal,2019,34,Southern Asia,Country,NPL,32.73,Percentage,C: Country data
+112,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),528,Netherlands,2019,155,Western Europe,Country,NLD,31.33,Percentage,C: Country data
+113,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),548,Vanuatu,2019,54,Melanesia,Country,VUT,0,Percentage,C: Country data
+114,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),554,New Zealand,2019,53,Australia and New Zealand,Country,NZL,40,Percentage,C: Country data
+115,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),558,Nicaragua,2019,13,Central America,Country,NIC,44.57,Percentage,C: Country data
+116,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),56,Belgium,2019,155,Western Europe,Country,BEL,38,Percentage,C: Country data
+117,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),562,Niger,2019,11,Western Africa,Country,NER,16.96,Percentage,C: Country data
+118,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),566,Nigeria,2019,11,Western Africa,Country,NGA,5.57,Percentage,C: Country data
+119,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),578,Norway,2019,154,Northern Europe,Country,NOR,40.83,Percentage,C: Country data
+120,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),583,Micronesia (Federated States of),2019,57,Micronesia,Country,FSM,0,Percentage,C: Country data
+121,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),585,Palau,2019,57,Micronesia,Country,PLW,12.5,Percentage,C: Country data
+122,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),586,Pakistan,2019,34,Southern Asia,Country,PAK,20.23,Percentage,C: Country data
+123,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),591,Panama,2019,13,Central America,Country,PAN,18.31,Percentage,C: Country data
+124,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),598,Papua New Guinea,2019,54,Melanesia,Country,PNG,0,Percentage,C: Country data
+125,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),600,Paraguay,2019,5,South America,Country,PRY,15,Percentage,C: Country data
+126,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),604,Peru,2019,5,South America,Country,PER,30,Percentage,C: Country data
+127,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),608,Philippines,2019,35,South-Eastern Asia,Country,PHL,29.45,Percentage,C: Country data
+128,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),616,Poland,2019,151,Eastern Europe,Country,POL,29.13,Percentage,C: Country data
+129,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),620,Portugal,2019,39,Southern Europe,Country,PRT,35.65,Percentage,C: Country data
+130,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),624,Guinea-Bissau,2019,11,Western Africa,Country,GNB,13.73,Percentage,C: Country data
+131,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),626,Timor-Leste,2019,35,South-Eastern Asia,Country,TLS,40,Percentage,C: Country data
+132,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),634,Qatar,2019,145,Western Asia,Country,QAT,9.76,Percentage,C: Country data
+133,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),64,Bhutan,2019,34,Southern Asia,Country,BTN,14.89,Percentage,C: Country data
+134,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),642,Romania,2019,151,Eastern Europe,Country,ROU,20.67,Percentage,C: Country data
+135,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),643,Russian Federation,2019,151,Eastern Europe,Country,RUS,15.78,Percentage,C: Country data
+136,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),646,Rwanda,2019,14,Eastern Africa,Country,RWA,61.25,Percentage,C: Country data
+137,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),659,Saint Kitts and Nevis,2019,29,Caribbean,Country,KNA,13.33,Percentage,C: Country data
+138,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),662,Saint Lucia,2019,29,Caribbean,Country,LCA,16.67,Percentage,C: Country data
+139,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),670,Saint Vincent and the Grenadines,2019,29,Caribbean,Country,VCT,13.04,Percentage,C: Country data
+140,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),674,San Marino,2019,39,Southern Europe,Country,SMR,25,Percentage,C: Country data
+141,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),678,Sao Tome and Principe,2019,17,Middle Africa,Country,STP,14.55,Percentage,C: Country data
+142,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),68,Bolivia (Plurinational State of),2019,5,South America,Country,BOL,53.08,Percentage,C: Country data
+143,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),682,Saudi Arabia,2019,145,Western Asia,Country,SAU,19.87,Percentage,C: Country data
+144,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),686,Senegal,2019,11,Western Africa,Country,SEN,41.82,Percentage,C: Country data
+145,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),688,Serbia,2019,39,Southern Europe,Country,SRB,37.65,Percentage,C: Country data
+146,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),690,Seychelles,2019,14,Eastern Africa,Country,SYC,21.21,Percentage,C: Country data
+147,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),694,Sierra Leone,2019,11,Western Africa,Country,SLE,12.33,Percentage,C: Country data
+148,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),70,Bosnia and Herzegovina,2019,39,Southern Europe,Country,BIH,21.43,Percentage,C: Country data
+149,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),702,Singapore,2019,35,South-Eastern Asia,Country,SGP,23,Percentage,C: Country data
+150,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),703,Slovakia,2019,151,Eastern Europe,Country,SVK,20,Percentage,C: Country data
+151,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),704,Viet Nam,2019,35,South-Eastern Asia,Country,VNM,26.72,Percentage,C: Country data
+152,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),705,Slovenia,2019,39,Southern Europe,Country,SVN,24.44,Percentage,C: Country data
+153,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),706,Somalia,2019,14,Eastern Africa,Country,SOM,24.36,Percentage,C: Country data
+154,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),710,South Africa,2019,18,Southern Africa,Country,ZAF,42.75,Percentage,C: Country data
+155,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),716,Zimbabwe,2019,14,Eastern Africa,Country,ZWE,31.85,Percentage,C: Country data
+156,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),72,Botswana,2019,18,Southern Africa,Country,BWA,9.52,Percentage,C: Country data
+157,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),724,Spain,2019,39,Southern Europe,Country,ESP,41.14,Percentage,C: Country data
+158,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),728,South Sudan,2019,14,Eastern Africa,Country,SSD,28.46,Percentage,C: Country data
+159,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),729,Sudan,2019,15,Northern Africa,Country,SDN,27.65,Percentage,C: Country data
+160,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),740,Suriname,2019,5,South America,Country,SUR,29.41,Percentage,C: Country data
+161,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),748,Eswatini,2019,18,Southern Africa,Country,SWZ,7.25,Percentage,C: Country data
+162,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),752,Sweden,2019,154,Northern Europe,Country,SWE,47.28,Percentage,C: Country data
+163,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),756,Switzerland,2019,155,Western Europe,Country,CHE,32.5,Percentage,C: Country data
+164,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),76,Brazil,2019,5,South America,Country,BRA,15.01,Percentage,C: Country data
+165,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),760,Syrian Arab Republic,2019,145,Western Asia,Country,SYR,13.2,Percentage,C: Country data
+166,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),762,Tajikistan,2019,143,Central Asia,Country,TJK,19.05,Percentage,C: Country data
+167,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),764,Thailand,2019,35,South-Eastern Asia,Country,THA,5.42,Percentage,C: Country data
+168,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),768,Togo,2019,11,Western Africa,Country,TGO,16.48,Percentage,C: Country data
+169,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),776,Tonga,2019,61,Polynesia,Country,TON,7.41,Percentage,C: Country data
+170,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),780,Trinidad and Tobago,2019,29,Caribbean,Country,TTO,30.95,Percentage,C: Country data
+171,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),784,United Arab Emirates,2019,145,Western Asia,Country,ARE,22.5,Percentage,C: Country data
+172,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),788,Tunisia,2019,15,Northern Africa,Country,TUN,35.94,Percentage,C: Country data
+173,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),792,Turkey,2019,145,Western Asia,Country,TUR,17.45,Percentage,C: Country data
+174,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),795,Turkmenistan,2019,143,Central Asia,Country,TKM,25,Percentage,C: Country data
+175,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),798,Tuvalu,2019,61,Polynesia,Country,TUV,6.67,Percentage,C: Country data
+176,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),8,Albania,2019,39,Southern Europe,Country,ALB,29.29,Percentage,C: Country data
+177,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),800,Uganda,2019,14,Eastern Africa,Country,UGA,34.86,Percentage,C: Country data
+178,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),804,Ukraine,2019,151,Eastern Europe,Country,UKR,11.58,Percentage,C: Country data
+179,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),807,North Macedonia,2019,39,Southern Europe,Country,MKD,38.33,Percentage,C: Country data
+180,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),818,Egypt,2019,15,Northern Africa,Country,EGY,14.93,Percentage,C: Country data
+181,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),826,United Kingdom of Great Britain and Northern Ireland,2019,154,Northern Europe,Country,GBR,32,Percentage,C: Country data
+182,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),834,United Republic of Tanzania,2019,14,Eastern Africa,Country,TZA,36.9,Percentage,C: Country data
+183,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),84,Belize,2019,13,Central America,Country,BLZ,9.38,Percentage,C: Country data
+184,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),840,United States of America,2019,21,Northern America,Country,USA,23.56,Percentage,C: Country data
+185,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),854,Burkina Faso,2019,11,Western Africa,Country,BFA,13.39,Percentage,C: Country data
+186,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),858,Uruguay,2019,5,South America,Country,URY,22.22,Percentage,C: Country data
+187,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),860,Uzbekistan,2019,143,Central Asia,Country,UZB,16,Percentage,C: Country data
+188,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),862,Venezuela (Bolivarian Republic of),2019,5,South America,Country,VEN,22.16,Percentage,C: Country data
+189,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),882,Samoa,2019,61,Polynesia,Country,WSM,10,Percentage,C: Country data
+190,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),887,Yemen,2019,145,Western Asia,Country,YEM,0.33,Percentage,C: Country data
+191,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),894,Zambia,2019,14,Eastern Africa,Country,ZMB,17.96,Percentage,C: Country data
+192,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),90,Solomon Islands,2019,54,Melanesia,Country,SLB,2.04,Percentage,C: Country data
+193,5,5.5,5.5.1,SG_GEN_PARL,Proportion of seats held by women in national parliaments (% of total number of seats),96,Brunei Darussalam,2019,35,South-Eastern Asia,Country,BRN,9.09,Percentage,C: Country data

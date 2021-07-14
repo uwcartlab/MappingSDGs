@@ -1,0 +1,36 @@
+Goal, Target, Indicator, SeriesCode, SeriesDescription, GeoAreaCode, GeoAreaName, TimePeriod, Value, Time_Detail,  UpperBound, LowerBound, BasePeriod, Source, FootNote, Nature, Units,[Reporting Type],[Sex]
+4,4.3,4.3.1,SE_ADT_EDUCTRN,"Participation rate in formal and non-formal education and training, by sex (%)",233,Estonia,2016,50.7,2016,,,,Adult Education Survey (AES),,C,PERCENT,G,FEMALE
+4,4.3,4.3.1,SE_ADT_EDUCTRN,"Participation rate in formal and non-formal education and training, by sex (%)",250,France,2016,53.8,2016,,,,Adult Education Survey (AES),,C,PERCENT,G,FEMALE
+4,4.3,4.3.1,SE_ADT_EDUCTRN,"Participation rate in formal and non-formal education and training, by sex (%)",428,Latvia,2016,51.9,2016,,,,Adult Education Survey (AES),,C,PERCENT,G,FEMALE
+4,4.3,4.3.1,SE_ADT_EDUCTRN,"Participation rate in formal and non-formal education and training, by sex (%)",578,Norway,2016,60.4,2016,,,,Adult Education Survey (AES),,C,PERCENT,G,FEMALE
+4,4.3,4.3.1,SE_ADT_EDUCTRN,"Participation rate in formal and non-formal education and training, by sex (%)",688,Serbia,2016,21.4,2016,,,,Adult Education Survey (AES),,C,PERCENT,G,FEMALE
+4,4.3,4.3.1,SE_ADT_EDUCTRN,"Participation rate in formal and non-formal education and training, by sex (%)",752,Sweden,2016,68.2,2016,,,,Adult Education Survey (AES),,C,PERCENT,G,FEMALE
+4,4.3,4.3.1,SE_ADT_EDUCTRN,"Participation rate in formal and non-formal education and training, by sex (%)",56,Belgium,2016,46.2,2016,,,,Adult Education Survey (AES),,C,PERCENT,G,FEMALE
+4,4.3,4.3.1,SE_ADT_EDUCTRN,"Participation rate in formal and non-formal education and training, by sex (%)",191,Croatia,2016,31.1,2016,,,,Adult Education Survey (AES),,C,PERCENT,G,FEMALE
+4,4.3,4.3.1,SE_ADT_EDUCTRN,"Participation rate in formal and non-formal education and training, by sex (%)",246,Finland,2016,60.2,2016,,,,Adult Education Survey (AES),,C,PERCENT,G,FEMALE
+4,4.3,4.3.1,SE_ADT_EDUCTRN,"Participation rate in formal and non-formal education and training, by sex (%)",300,Greece,2016,17.5,2016,,,,Adult Education Survey (AES),,C,PERCENT,G,FEMALE
+4,4.3,4.3.1,SE_ADT_EDUCTRN,"Participation rate in formal and non-formal education and training, by sex (%)",440,Lithuania,2016,31.9,2016,,,,Adult Education Survey (AES),,C,PERCENT,G,FEMALE
+4,4.3,4.3.1,SE_ADT_EDUCTRN,"Participation rate in formal and non-formal education and training, by sex (%)",616,Poland,2016,25.7,2016,,,,Adult Education Survey (AES),,C,PERCENT,G,FEMALE
+4,4.3,4.3.1,SE_ADT_EDUCTRN,"Participation rate in formal and non-formal education and training, by sex (%)",642,Romania,2016,7.5,2016,,,,Adult Education Survey (AES),,C,PERCENT,G,FEMALE
+4,4.3,4.3.1,SE_ADT_EDUCTRN,"Participation rate in formal and non-formal education and training, by sex (%)",703,Slovakia,2016,45.3,2016,,,,Adult Education Survey (AES),,C,PERCENT,G,FEMALE
+4,4.3,4.3.1,SE_ADT_EDUCTRN,"Participation rate in formal and non-formal education and training, by sex (%)",724,Spain,2016,42.9,2016,,,,Adult Education Survey (AES),,C,PERCENT,G,FEMALE
+4,4.3,4.3.1,SE_ADT_EDUCTRN,"Participation rate in formal and non-formal education and training, by sex (%)",8,Albania,2016,9.5,2016,,,,Adult Education Survey (AES),,C,PERCENT,G,FEMALE
+4,4.3,4.3.1,SE_ADT_EDUCTRN,"Participation rate in formal and non-formal education and training, by sex (%)",100,Bulgaria,2016,24.7,2016,,,,Adult Education Survey (AES),,C,PERCENT,G,FEMALE
+4,4.3,4.3.1,SE_ADT_EDUCTRN,"Participation rate in formal and non-formal education and training, by sex (%)",196,Cyprus,2016,40.4,2016,,,,Adult Education Survey (AES),,C,PERCENT,G,FEMALE
+4,4.3,4.3.1,SE_ADT_EDUCTRN,"Participation rate in formal and non-formal education and training, by sex (%)",208,Denmark,2016,52.6,2016,,,,Adult Education Survey (AES),,C,PERCENT,G,FEMALE
+4,4.3,4.3.1,SE_ADT_EDUCTRN,"Participation rate in formal and non-formal education and training, by sex (%)",276,Germany,2016,52.2,2016,,,,Adult Education Survey (AES),,C,PERCENT,G,FEMALE
+4,4.3,4.3.1,SE_ADT_EDUCTRN,"Participation rate in formal and non-formal education and training, by sex (%)",380,Italy,2016,39.1,2016,,,,Adult Education Survey (AES),,C,PERCENT,G,FEMALE
+4,4.3,4.3.1,SE_ADT_EDUCTRN,"Participation rate in formal and non-formal education and training, by sex (%)",442,Luxembourg,2016,48.1,2016,,,,Adult Education Survey (AES),,C,PERCENT,G,FEMALE
+4,4.3,4.3.1,SE_ADT_EDUCTRN,"Participation rate in formal and non-formal education and training, by sex (%)",470,Malta,2016,35.7,2016,,,,Adult Education Survey (AES),,C,PERCENT,G,FEMALE
+4,4.3,4.3.1,SE_ADT_EDUCTRN,"Participation rate in formal and non-formal education and training, by sex (%)",528,Netherlands,2016,63.5,2016,,,,Adult Education Survey (AES),,C,PERCENT,G,FEMALE
+4,4.3,4.3.1,SE_ADT_EDUCTRN,"Participation rate in formal and non-formal education and training, by sex (%)",40,Austria,2016,58.8,2016,,,,Adult Education Survey (AES),,C,PERCENT,G,FEMALE
+4,4.3,4.3.1,SE_ADT_EDUCTRN,"Participation rate in formal and non-formal education and training, by sex (%)",70,Bosnia and Herzegovina,2016,8.5,2016,,,,Adult Education Survey (AES),,C,PERCENT,G,FEMALE
+4,4.3,4.3.1,SE_ADT_EDUCTRN,"Participation rate in formal and non-formal education and training, by sex (%)",203,Czechia,2016,42.6,2016,,,,Adult Education Survey (AES),,C,PERCENT,G,FEMALE
+4,4.3,4.3.1,SE_ADT_EDUCTRN,"Participation rate in formal and non-formal education and training, by sex (%)",348,Hungary,2016,52.7,2016,,,,Adult Education Survey (AES),,C,PERCENT,G,FEMALE
+4,4.3,4.3.1,SE_ADT_EDUCTRN,"Participation rate in formal and non-formal education and training, by sex (%)",620,Portugal,2016,44.7,2016,,,,Adult Education Survey (AES),,C,PERCENT,G,FEMALE
+4,4.3,4.3.1,SE_ADT_EDUCTRN,"Participation rate in formal and non-formal education and training, by sex (%)",705,Slovenia,2016,48.3,2016,,,,Adult Education Survey (AES),,C,PERCENT,G,FEMALE
+4,4.3,4.3.1,SE_ADT_EDUCTRN,"Participation rate in formal and non-formal education and training, by sex (%)",756,Switzerland,2016,67.7,2016,,,,Adult Education Survey (AES),,C,PERCENT,G,FEMALE
+4,4.3,4.3.1,SE_ADT_EDUCTRN,"Participation rate in formal and non-formal education and training, by sex (%)",792,Turkey,2016,17,2016,,,,Adult Education Survey (AES),,C,PERCENT,G,FEMALE
+4,4.3,4.3.1,SE_ADT_EDUCTRN,"Participation rate in formal and non-formal education and training, by sex (%)",826,United Kingdom of Great Britain and Northern Ireland,2016,53.9,2016,,,,Adult Education Survey (AES),,C,PERCENT,G,FEMALE
+4,4.3,4.3.1,SE_ADT_EDUCTRN,"Participation rate in formal and non-formal education and training, by sex (%)",858,Uruguay,2016,69.58856,2016,,,,Household Surveys,,C,PERCENT,G,FEMALE
+4,4.3,4.3.1,SE_ADT_EDUCTRN,"Participation rate in formal and non-formal education and training, by sex (%)",807,North Macedonia,2016,11.9,2016,,,,Adult Education Survey (AES),,C,PERCENT,G,FEMALE

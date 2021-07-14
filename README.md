@@ -8,12 +8,35 @@
 
 The [University of Wisconsin Cartography Lab](https://www.geography.wisc.edu/cartography/) supported creation of the book layout and all maps and graphics through [National Science Foundation CAREER Grant #1555267](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1555267). The book and all included maps and graphics are available as open access materials through a CC BY-NC license.
 
-[*Download the Book for Free*](https://digitallibrary.un.org/record/3898)
+[**Download the Book for Free**](https://digitallibrary.un.org/record/3898)
 
-## Archive
+## Figure Data & Design Archive
 
-This repo archives UW Cart Lab data and design materials for the book as part of the open educational resource. Data were downloaded from the United Nations SDG Indicators Database.
+This repo archives UW Cart Lab data and design materials for the book as part of the open educational resource. Data were downloaded from the [United Nations SDG Indicators 
+Database](https://unstats.un.org/sdgs/indicators/database/), which is continuously updated and maintained. Archived datasets reflect the version used for figures in _Mapping for a Sustainable World_ to enable their exact replication from the book. 
 
-The UW Cart Lab also provides a [_Mapping for a Sustainable World: QGIS Technical Supplement_](https://github.com/uwcartlab/MappingSDGsTechnicalSupplement).
+The UW Cart Lab also provides the [_Mapping for a Sustainable World: QGIS Technical Supplement_](https://github.com/uwcartlab/MappingSDGsTechnicalSupplement) to walkthrough how to recreate these figures using the QGIS open source mapping software. All archived materials, including the QGIS Supplement and contents of the Mapping for a Sustainable World cartography book, are available for classroom or workshop use following a CC BY-NC license.
+
+Summary of All Archived Datasets
+
+**Section 1: SDGs & Geospatial Data**
+- Figure 1.1-1: The SDGs. [PDF](/1_Choropleth/1.1_Scope.md)
+- Figure 1.2-1: Components of geospatial data. [PDF](/1_Choropleth/1.1_Scope.md)
+- Figure 1.2-2: Attributes. [PDF](/1_Choropleth/1.1_Scope.md)
+- Figure 1.2-3: Time. [PDF](/1_Choropleth/1.1_Scope.md)
+- Figure 1.2-4: Example data from the Global SDGs Indicators Database. [PDF](/1_Choropleth/1.1_Scope.md)
+- Figure 1.3-1: M49 regions and subregions. [PDF](/1_Choropleth/1.1_Scope.md)
+- Figure 1.3-2: M49 intermediate regions. [PDF](/1_Choropleth/1.1_Scope.md)
+- Figure 1.3-3: SDG regional groupings. [PDF](/1_Choropleth/1.1_Scope.md)
+- Figure 1.4-1: Attribute levels of measurement and associated example symbolization. [[PDF](/1_Choropleth/1.1_Scope.md)
+- Figure 1.4-2: SDG indicators and their level of measurement. [PDF](/1_Choropleth/1.1_Scope.md)
+- Figure 1.5-1: Time in geospatial data. [PDF](/1_Choropleth/1.1_Scope.md)
+
+**Section 2: Map Design Considerations**
 
 
+
+**Section 3: Maps & Diagrams**
+
+
+**Section 4: Map Use Environments**
