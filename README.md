@@ -102,7 +102,76 @@ Summary of All Archived Datasets
 
 **Section 3: Maps & Diagrams**
 
-
+- Figure 3.1-1: Thematic map types
+	- Top Left: [Proportional symbol](/figures/3.1-1a.pdf)
+		- [Legend](/figures/3.1-1a_legend.pdf)
+	- Top Right: [Dot density](/figures/3.1-1b.pdf)
+		- [Legend](/figures/3.1-1b_legend.pdf)
+	- Bottom Left: [Choropleth)](/figures/3.1-1c.pdf)
+		- [Legend](/figures/3.1-1c_legend.pdf)
+	- Bottom Right: [Shaded isoline](/figures/3.1-1d.jpg)
+		- [Legend](/figures/3.1-1d_legend.pdf)
+- Figure 3.1-2: [Choosing a thematic map type](/figures/3.1-2.pdf)
+- Figure 3.2-1: [Binary nominal map](/figures/3.2-1.pdf)
+- Figure 3.3-1: [Choropleth map](/figures/3.3-1.pdf)
+	- [Legend](/figures/3.3-1_legend.pdf)
+- Figure 3.4-1: [Proportional symbol map](/figures/3.4-1.pdf)
+	- [Legend](/figures/3.4-1_legend.pdf)
+- Figure 3.5-1: [Original choropleth map](/figures/3.5-1.pdf)
+	- [Legend](/figures/3.5-1_legend.pdf)
+- Figure 3.5-2: [Exclusionary data](/figures/3.5-2.pdf)
+	- [Legend](/figures/3.5-2_legend.pdf)
+- Figure 3.5-3: [Vector math](/figures/3.5-3.pdf)
+	- [Legend](/figures/3.5-3_legend.pdf)
+- Figure 3.5-4: [Resulting dasymetric map](/figures/3.5-4.pdf)
+	- [Legend](/figures/3.5-4_legend.pdf)
+- Figure 3.6-1: [Nominal map legend](/figures/3.6-1.pdf)
+- Figure 3.6-2: [Choropleth map legend](/figures/3.6-2.pdf)
+- Figure 3.6-3: [Proportional symbol map legend](/figures/3.6-3.pdf)
+- Figure 3.7-1: [Reading bivariate map legends](/figures/3.7-1.pdf)
+- Figure 3.7-2: [Separable bivariate map](/figures/3.7-2.pdf)
+- Figure 3.7-3: [Integral bivariate map](/figures/3.7-2.pdf)
+- Figure 3.7-4: [Configural bivariate map](/figures/3.7-2.pdf)
+- Figure 3.8-1: Explaining cartograms
+	- Top: [SDG regional groupings projected into the Eckert IV equivalent projection used throughout this book](/figures/3.8-1a.pdf)
+	- Bottom: [SDG regional groupings mapping in a contiguous cartogram based on population within each regional grouping](/figures/3.8-1b.pdf)
+- Figure 3.8-2: [Types of cartograms](/figures/3.8-2.pdf)
+	- [Legend](/figures/3.8-2_legend.pdf)
+- Figure 3.9-1: [Small multiples of a time series](/figures/3.9-1.pdf)
+	- [Legend](/figures/3.9-1_legend.pdf)
+- Figure 3.9-2: [A change map between time intervals](/figures/3.9-2.pdf)
+	- [Legend](/figures/3.9-2_legend.pdf)
+- Figure 3.9-3: [Animation of a time series](/figures/3.9-3.pdf)
+	- [Legend](/figures/3.9-3_legend.pdf)
+- Figure 3.10-1: [Choosing a diagram](/figures/3.10-1.pdf)
+- Figure 3.11-1: Bar charts
+	- Top: [The more common vertical orientation uses a top=more visual metaphor as larger data values grow into taller bars](/figures/3.11-1a.pdf)
+	- Bottom: [The less common horizontal orientation improves legibility of the bar labels](/figures/3.11-1b.pdf)
+- Figure 3.11-2: Alternative single indicator diagrams to bar charts
+	- Top: [Unit chart (vertical)](/figures/3.11-2a.pdf)
+	- Middle: [Pictorial unit chart (horizontal)](/figures/3.11-2b.pdf)
+	- Bottom: [Lollipop chart](/figures/3.11-2c.pdf)
+- Figure 3.12-1: Diagrams for comparing relative values
+	- Left: [Pie chart](/figures/3.12-1a.pdf)
+	- Centre: [Donut chart](/figures/3.12-1b.pdf)
+	- Right: [Waffle chart]/3.12-1c.pdf)
+- Figure 3.12-2: Diagrams comparing absolute values
+	- Left: [Stacked bar chart](/figures/3.12-2a.pdf)
+	- Right: [Marimekko chart](/figures/3.12-2b.pdf)
+- Figure 3.12-3: Diagrams comparing binary categories
+	- Left: [Dumbbell chart](/figures/3.12-3a.pdf)
+	- Right: [Slope chart](/figures/3.12-3b.pdf)
+- Figure 3.13-1: [Scatterplot](/figures/3.13-1.pdf)
+- Figure 3.13-2: [Bubble chart](/figures/3.13-2.pdf)
+- Figure 3.13-3: [Parallel coordinate plot](/figures/3.13-3.pdf)
+- Figure 3.14-1: Comparative diagrams of time
+	- Left: [Dumbbell chart of time](/figures/3.14-1a.pdf)
+	- Right: [Slope chart of time](/figures/3.14-1b.pdf)
+- Figure 3.14-2: Time series diagrams
+	- Top: [A line chart adding an emergent orientation cue](/figures/3.14-2a.pdf)
+	- Middle: [A stacked area chart relying on the visual variable size of the stacked areas](/figures/3.14-2b.pdf)
+	- Bottom: [A sorted stream graph relying on size, but on the line thickness rather than polygon area](/figures/3.14-2c.pdf)
+	
 [Goal 9 Insert: Build Resilient Infrastructure, Promote Sustainable Industrialization, & Foster Innovation](/figures/SDG09_Infrastructure.pdf)
 
 **Section 4: Map Use Environments**
