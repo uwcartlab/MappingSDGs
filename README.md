@@ -175,7 +175,37 @@ Summary of All Archived Datasets
 [Goal 9 Insert: Build Resilient Infrastructure, Promote Sustainable Industrialization, & Foster Innovation](/figures/SDG09_Infrastructure.pdf)
 
 **Section 4: Map Use Environments**
-
+- Figure 4.1-1: [Cartography Cube](/figures/4.1-1.pdf)
+- Figure 4.1-2: [Individual differences](/figures/4.1-2.pdf)
+- Figure 4.2-1: [Suboptimal design for visual impairment](/figures/4.2-1.pdf)
+	- [Legend](/figures/4.2-1_legend.pdf)
+- Figure 4.2-2: [Improved design for visual impairment](/figures/4.2-2.pdf)
+	- [Legend](/figures/4.2-2_legend.pdf)
+- Figure 4.3-1: [Recommendations for non-mobile cartographic interface design](/figures/4.3-1.pdf)
+	- [Legend](/figures/4.3-1_legend.pdf)
+- Figure 4.4-1: [Interaction operators](/figures/4.4-1.pdf)
+- Figure 4.5-1: [The United Nations Clear Map](/figures/4.5-1.jpg)
+- Figure 4.5-2: [Full stack web cartography](/figures/4.5-2.pdf)
+- Figure 4.6-1: Recommendations for responsive cartographic representation and interface design
+	- Left: [The non-mobile design](/figures/4.6-1.pdf)
+	- Right: [The mobile design](/figures/4.6-2.pdf)
+	- [Legend](/figures/4.6-1_legend.pdf)
+- Figure 4.7-1: [Three-act narrative](/figures/4.7-1.pdf)
+- Figure 4.7-2: [Visual storytelling genres](/figures/4.7-2.pdf)
+- Figure 4.8-1: [Temporal scale](/figures/4.8-1.pdf)
+- Figure 4.8-2: [Interacting with time](/figures/4.8-2.pdf)
+	- [Legend](/figures/4.8-1_legend.pdf)
+- Figure 4.9-1: [Strategic dashboard](/figures/4.9-1.pdf)
+- Figure 4.9-2: [Analytical dashboard](/figures/4.9-2.pdf)
+- Figure 4.10-1: [Overview first](/figures/4.10-1.pdf)
+	- [Legend](/figures/4.10-1_legend.pdf)
+- Figure 4.10-2: [Zoom and filter](/figures/4.10-2.pdf)
+- Figure 4.10-3: [Details on-demand](/figures/4.10-3.pdf)
+- Figure 4.11-1: [Traditional atlas spread](/figures/4.11-1.pdf)
+- Figure 4.11-2: [Interactive atlas](/figures/4.11-2.pdf)
+- Figure 4.12-1: [Functional and non-functional requirements](/figures/4.12-1.pdf)
+- Figure 4.12-2: [User-centred design](/figures/4.12-2.pdf)
+- Figure 4.13-1: [Mapping for a Sustainable World](/figures/4.13-1.pdf)
 
 [Goal 13 Insert: Take Urgent Action to Combat Climate Change](/figures/SDG13_ClimateChange.pdf)
 
