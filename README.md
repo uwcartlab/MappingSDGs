@@ -138,7 +138,7 @@ The UW Cart Lab also provides the [_Mapping for a Sustainable World: QGIS Techni
 - **Figure 2.15-2:** [Representing uncertainty](/figures/2.15-2.pdf)
 
 [**Goal 5 Insert:** Achieve Gender Equality and Empower All Women and Girls](/figures/SDG05_GenderEquality.pdf)
-	- **Data: Currently Unavailable**
+	- **Data:** [Indicator 5.1.1 (2021)](/data/inserts/SDG5_WomenLeadership.csv)
 
 **Section 3: Maps & Diagrams**
 
